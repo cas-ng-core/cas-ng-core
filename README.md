@@ -6,7 +6,7 @@
 
 **Next-Generation Layer 1 Blockchain Architecture designed for the Post-Quantum Era.**
 
-> **Current Version:** v0.2.0 (Persistent Mining & Local Storage)
+>v0.3.0 (P2P Network / Traffic Morphing)
 
 ## 🌌 Vision
 CAS-NG (Crypto-Agile System Next Gen) is built to withstand the threat of quantum computing. While traditional ledgers rely on RSA/ECC, Aegis implements NIST-standardized Post-Quantum Cryptography.
@@ -41,3 +41,4 @@ A novel consensus mechanism designed to be **ASIC-Resistant**.
 git clone [https://github.com/cas-ng-core/cas-ng-core.git](https://github.com/cas-ng-core/cas-ng-core.git)
 cd cas-ng-core
 cargo run
+

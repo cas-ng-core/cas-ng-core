@@ -163,7 +163,7 @@ fn genesis_chain() -> Vec<Block> {
         nonce: 0,
         miner: "SYSTEM".to_string(),
     }]
-}
+} 
 
 fn save_chain(chain: &Vec<Block>) {
     let json = serde_json::to_string(chain).unwrap();

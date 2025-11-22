@@ -1,0 +1,16 @@
+# --- RUST BUILD ARTIFACTS (MÜLL) ---
+/target
+/debug
+/release
+**/*.rs.bk
+*.pdb
+
+# --- SICHERHEIT (NIEMALS HOCHLADEN!) ---
+wallet.json
+blockchain.json
+
+# --- EDITOREN & IDEs ---
+.idea
+.vscode
+*.swp
+*.iml

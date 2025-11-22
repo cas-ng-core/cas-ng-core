@@ -38,3 +38,6 @@ A novel consensus mechanism designed to be **ASIC-Resistant**.
 
 ### Run the Miner
 ```bash
+git clone [https://github.com/cas-ng-core/cas-ng-core.git](https://github.com/cas-ng-core/cas-ng-core.git)
+cd cas-ng-core
+cargo run
